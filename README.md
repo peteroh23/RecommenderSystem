@@ -1,7 +1,7 @@
 # RecommenderSystem
 
-#### Credit for Algorithms: Graphlab and Surprise
-#### Credit for Datasets: MovieLens
+#### Credit for Algorithms: Graphlab (github.com/apple/turicreate) and Surprise (surpriselib.com)
+#### Credit for Datasets: MovieLens (grouplens.org/datasets/movielens)
 
 This is a project that I have been working on that piggy-backs off of my REU research work at East Carolina University.
 
